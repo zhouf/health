@@ -1,0 +1,4 @@
+git config --global core.editor C:/windows/notepad.exe
+
+撤销对file2.jsp的编辑
+git checkout -- file2.jsp
