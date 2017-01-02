@@ -46,3 +46,15 @@ git push origin --tags
 -----------------------------------------------
 Char 3. Git 分支
 -----------------------------------------------
+
+查看分支
+git branch
+
+创建分支hotfix
+git branch hotfix
+
+转到分支hotfix
+git checkout hotfix
+
+创建并转到分支iss53
+git checkout -b iss53
